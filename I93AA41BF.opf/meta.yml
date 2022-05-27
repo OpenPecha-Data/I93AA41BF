@@ -1,0 +1,422 @@
+id: I93AA41BF
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T17:10:07.056969'
+last_modified: '2022-05-27T17:10:07.056982'
+parser: null
+source_metadata:
+  title: 'MSV 1,02: Poṣadhavastu'
+  language: sa
+  base:
+    f2A64:
+      title: CI_Uddāna
+      base_file: f2A64.txt
+      order: 1
+    f4CFC:
+      title: Introduction
+      base_file: f4CFC.txt
+      order: 2
+    fAECA:
+      title: CII_Ordering of niṣadyā, kriyā and poṣadha
+      base_file: fAECA.txt
+      order: 3
+    f44FD:
+      title: CII_Definition of niṣadyā
+      base_file: f44FD.txt
+      order: 4
+    fBEC3:
+      title: CII_Place of meditation
+      base_file: fBEC3.txt
+      order: 5
+    fC183:
+      title: CII_Prahāṇaśālā
+      base_file: fC183.txt
+      order: 6
+    fEC00:
+      title: CII_Āsana
+      base_file: fEC00.txt
+      order: 7
+    f0B41:
+      title: CII_Not sleeping
+      base_file: f0B41.txt
+      order: 8
+    fF835:
+      title: CII_Rules for meditation
+      base_file: fF835.txt
+      order: 9
+    fB154:
+      title: CII_More meditation rooms
+      base_file: fB154.txt
+      order: 10
+    f3EA5:
+      title: CII_Resting
+      base_file: f3EA5.txt
+      order: 11
+    fC656:
+      title: CII_Qualities
+      base_file: fC656.txt
+      order: 12
+    f9DAE:
+      title: CII_Choice
+      base_file: f9DAE.txt
+      order: 13
+    fD60D:
+      title: CII_Duties
+      base_file: fD60D.txt
+      order: 14
+    fF8CC:
+      title: CII_The gong
+      base_file: fF8CC.txt
+      order: 15
+    fB495:
+      title: CII_After meditation
+      base_file: fB495.txt
+      order: 16
+    f5955:
+      title: CII_Tṛdaṇḍaka
+      base_file: f5955.txt
+      order: 17
+    f0C1D:
+      title: CII_Dakṣiṇā
+      base_file: f0C1D.txt
+      order: 18
+    f843A:
+      title: CII_Prahāṇapratijāgraka, more
+      base_file: f843A.txt
+      order: 19
+    fFB99:
+      title: CIII_Definition of kriyā
+      base_file: fFB99.txt
+      order: 20
+    f5ACF:
+      title: CIII_Definition of poṣadha
+      base_file: f5ACF.txt
+      order: 21
+    f29C2:
+      title: CIII_Saṃghasthavira recites
+      base_file: f29C2.txt
+      order: 22
+    fE6F3:
+      title: CIII_Poṣadhāmukha
+      base_file: fE6F3.txt
+      order: 23
+    f0A92:
+      title: CIII_Uddāna
+      base_file: f0A92.txt
+      order: 24
+    f1428:
+      title: CIII_Nidāna
+      base_file: f1428.txt
+      order: 25
+    f2F9C:
+      title: CIII_Kapphiṇa
+      base_file: f2F9C.txt
+      order: 26
+    f6B8B:
+      title: CIII_Mahatī Sīmā
+      base_file: f6B8B.txt
+      order: 27
+    fAB01:
+      title: CIII_Khuḍḍalikā Sīmā
+      base_file: fAB01.txt
+      order: 28
+    f3B2B:
+      title: CIII_Sāntarbahirmukhī Sīmā
+      base_file: f3B2B.txt
+      order: 29
+    fD188:
+      title: CIII_Upālin
+      base_file: fD188.txt
+      order: 30
+    f41B8:
+      title: CIII_Poṣadhakarmāṇi
+      base_file: f41B8.txt
+      order: 31
+    f3799:
+      title: CIII_Prātimokṣasūtroddeśāḥ
+      base_file: f3799.txt
+      order: 32
+    f7752:
+      title: CIII_Uddāna
+      base_file: f7752.txt
+      order: 33
+    f9997:
+      title: CIII_Prātimokṣoddeśa
+      base_file: f9997.txt
+      order: 34
+    f9D6D:
+      title: CIII_Reception of learned monks
+      base_file: f9D6D.txt
+      order: 35
+    f7D39:
+      title: CIII_Purity of a sick monk
+      base_file: f7D39.txt
+      order: 36
+    fDCDD:
+      title: CIII_Poṣadha for few monks, purity
+      base_file: fDCDD.txt
+      order: 37
+    f802A:
+      title: CIII_Uddāna
+      base_file: f802A.txt
+      order: 38
+    f4B8A:
+      title: CIII_Captured by a king
+      base_file: f4B8A.txt
+      order: 39
+    fBADF:
+      title: CIII_Agreement of a sick monk
+      base_file: fBADF.txt
+      order: 40
+    f607E:
+      title: CIII_Poṣadha for few monks, agreement
+      base_file: f607E.txt
+      order: 41
+    f3473:
+      title: CIII_Monks spiritually hindered
+      base_file: f3473.txt
+      order: 42
+    f5978:
+      title: CIII_Admission of wrongdoings
+      base_file: f5978.txt
+      order: 43
+    f42C1:
+      title: CIII_Uddāna
+      base_file: f42C1.txt
+      order: 44
+    fC575:
+      title: CIII_A1-9
+      base_file: fC575.txt
+      order: 45
+    fF219:
+      title: CIII_A9-18
+      base_file: fF219.txt
+      order: 46
+    f99E9:
+      title: CIII_A19-27
+      base_file: f99E9.txt
+      order: 47
+    f3B51:
+      title: CIII_B1-9
+      base_file: f3B51.txt
+      order: 48
+    fE957:
+      title: CIII_B10-18
+      base_file: fE957.txt
+      order: 49
+    f6DD0:
+      title: CIII_B19-27
+      base_file: f6DD0.txt
+      order: 50
+    f648D:
+      title: CIII_C1-9
+      base_file: f648D.txt
+      order: 51
+    f945B:
+      title: CIII_C10-18
+      base_file: f945B.txt
+      order: 52
+    f00D7:
+      title: CIII_C19-27
+      base_file: f00D7.txt
+      order: 53
+    f4931:
+      title: CIII_C20
+      base_file: f4931.txt
+      order: 54
+    f6723:
+      title: CIII_C21
+      base_file: f6723.txt
+      order: 55
+    f2F44:
+      title: CIII_C22
+      base_file: f2F44.txt
+      order: 56
+    f8B67:
+      title: CIII_C23
+      base_file: f8B67.txt
+      order: 57
+    f1144:
+      title: CIII_C24
+      base_file: f1144.txt
+      order: 58
+    fB1FA:
+      title: CIII_C25
+      base_file: fB1FA.txt
+      order: 59
+    f3104:
+      title: CIII_C26
+      base_file: f3104.txt
+      order: 60
+    f4FCC:
+      title: CIII_C27
+      base_file: f4FCC.txt
+      order: 61
+    fD94D:
+      title: CIII_a1-9
+      base_file: fD94D.txt
+      order: 62
+    f1517:
+      title: CIII_a10-21
+      base_file: f1517.txt
+      order: 63
+    f149F:
+      title: CIII_b1-8
+      base_file: f149F.txt
+      order: 64
+    f4419:
+      title: CIII_b9-16
+      base_file: f4419.txt
+      order: 65
+    f6556:
+      title: CIII_b17-23
+      base_file: f6556.txt
+      order: 66
+    f0BBB:
+      title: CIII_c1
+      base_file: f0BBB.txt
+      order: 67
+    f1EE1:
+      title: CIII_c2
+      base_file: f1EE1.txt
+      order: 68
+    f2721:
+      title: CIII_c3
+      base_file: f2721.txt
+      order: 69
+    f8634:
+      title: CIII_c4
+      base_file: f8634.txt
+      order: 70
+    f2AA9:
+      title: CIII_c5
+      base_file: f2AA9.txt
+      order: 71
+    f5DEF:
+      title: CIII_c6
+      base_file: f5DEF.txt
+      order: 72
+    f95E7:
+      title: CIII_c7
+      base_file: f95E7.txt
+      order: 73
+    f28DB:
+      title: CIII_c8
+      base_file: f28DB.txt
+      order: 74
+    f9B45:
+      title: CIII_c9
+      base_file: f9B45.txt
+      order: 75
+    f3D77:
+      title: CIII_c10
+      base_file: f3D77.txt
+      order: 76
+    f8F28:
+      title: CIII_c11
+      base_file: f8F28.txt
+      order: 77
+    f17E4:
+      title: CIII_c12
+      base_file: f17E4.txt
+      order: 78
+    fD4AF:
+      title: CIII_c13
+      base_file: fD4AF.txt
+      order: 79
+    f142B:
+      title: CIII_c14
+      base_file: f142B.txt
+      order: 80
+    f9B10:
+      title: CIII_c15
+      base_file: f9B10.txt
+      order: 81
+    f448E:
+      title: CIII_c16
+      base_file: f448E.txt
+      order: 82
+    f9E9B:
+      title: CIII_c17
+      base_file: f9E9B.txt
+      order: 83
+    f5FA1:
+      title: CIII_c18
+      base_file: f5FA1.txt
+      order: 84
+    fA96A:
+      title: CIII_c19
+      base_file: fA96A.txt
+      order: 85
+    fD52F:
+      title: CIII_c20
+      base_file: fD52F.txt
+      order: 86
+    f8147:
+      title: CIII_c21
+      base_file: f8147.txt
+      order: 87
+    fD65E:
+      title: CIII_c22
+      base_file: fD65E.txt
+      order: 88
+    f0696:
+      title: CIII_c23
+      base_file: f0696.txt
+      order: 89
+    f219E:
+      title: CIII_c24
+      base_file: f219E.txt
+      order: 90
+    fACB0:
+      title: CIII_Antaroddāna
+      base_file: fACB0.txt
+      order: 91
+    f1389:
+      title: CIII_a1-8
+      base_file: f1389.txt
+      order: 92
+    fCE06:
+      title: CIII_b1-12
+      base_file: fCE06.txt
+      order: 93
+    f3EE5:
+      title: CIII_c1-12
+      base_file: f3EE5.txt
+      order: 94
+    f0B08:
+      title: CIII_Antaroddāna
+      base_file: f0B08.txt
+      order: 95
+    fEB41:
+      title: CIII_Date of Poṣadha
+      base_file: fEB41.txt
+      order: 96
+    f1F86:
+      title: CIII_Relations of visiting and resident monks during the Poṣadha
+      base_file: f1F86.txt
+      order: 97
+    f6A61:
+      title: CIII_Antaroddāna
+      base_file: f6A61.txt
+      order: 98
+    fD3C0:
+      title: CIII_Where to go and not to go during the Poṣadha day
+      base_file: fD3C0.txt
+      order: 99
+    f7565:
+      title: CIII_Persons who disturb the Poṣadha
+      base_file: f7565.txt
+      order: 100
+  chapter_to_tile:
+    CI: Piṇḍoddāna
+    CII: 'Chapter I: Niṣadyā'
+    CIII: 'Chapter II: Kriyā and Poṣadha'
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
